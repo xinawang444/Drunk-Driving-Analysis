@@ -1,2 +1,4 @@
 # Drunk-Driving-Analysis
-Investigating the Relationship Between State Alcohol Consumption and Drunk Driving Fatalities
+[Investigating the Relationship Between State Alcohol Consumption and Drunk Driving Fatalities](https://docs.google.com/presentation/d/1uVVZ-pLOU5GSO6iFYDDdjJdkoqWdLxMIyOB49sVyjVY/edit?slide=id.g3bc5842852f_0_0#slide=id.g3bc5842852f_0_0)
+
+This project examines factors associated with drunk driving fatalities across U.S. states and investigates whether state-level alcohol consumption correlates with drunk driving deaths. Data were obtained from the National Institute on Alcohol Abuse and Alcoholism (2022), the National Highway Traffic Safety Administration (2022), and the U.S. Census Bureau (2022). This repository includes the raw datasets from these sources, data processing scripts, cleaned intermediate datasets, the final processed dataset used for analysis, and code for exploratory data analysis.
